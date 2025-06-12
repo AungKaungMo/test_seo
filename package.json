@@ -1,0 +1,9 @@
+{
+  "name": "seo-react-app",
+  "private": true,
+  "scripts": {
+    "client:build": "cd client && npm run build",
+    "client:dev": "cd client && npm run dev",
+    "server:start": "node server/index.js"
+  }
+}
